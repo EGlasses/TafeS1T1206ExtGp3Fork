@@ -26,5 +26,12 @@ namespace Calculator
 		{
 			this.InitializeComponent();
 		}
+
+		private void CurrencyButton_Click(object sender, RoutedEventArgs e)
+		{
+			Frame.Navigate(typeof(CurrencyCalculator));
+		}
 	}
 }
+
+
