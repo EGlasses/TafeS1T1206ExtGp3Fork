@@ -6,7 +6,7 @@
 
 	<Grid>
 
-		<!-- Title -->
+		<!-- Title - MainMenu -->
 		<TextBlock Text="Universal Calculator"
                    FontSize="55"
                    HorizontalAlignment="Center"
