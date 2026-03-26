@@ -63,6 +63,7 @@
                 HorizontalAlignment="Left"
                 VerticalAlignment="Center"
                 Margin="180,0,0,0" Click="tripCalcButton_Click"/>
+		<TextBlock x:Name="messageDisplayTextBlock" HorizontalAlignment="Left" Height="153" Margin="127,589,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="356" FontSize="36"/>
 
 	</Grid>
 </Page>
